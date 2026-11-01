@@ -8,10 +8,9 @@ My mother mentioned she has a hard time figuring out when I and my siblings' hol
 
 ## How It Works
 
-A paragraph or a few bullets explaining what the software does at a
-high level. If you have a diagram, embed it here:
+Run a command to execute the program, which leads the scraper to grab data from the calendar API. The next class will read the data from the API, write it to the terminal or (eventually) a .txt file listing the days off in order and the duration of the break. Once finished it will return the .txt file.
 
-![System diagram](docs/diagram.png)
+![System diagram](docs/System Diagram.drawio.png)
 
 ## Tech Stack
 
