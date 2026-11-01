@@ -10,7 +10,7 @@ My mother mentioned she has a hard time figuring out when I and my siblings' hol
 
 Run a command to execute the program, which leads the scraper to grab data from the calendar API. The next class will read the data from the API, write it to the terminal or (eventually) a .txt file listing the days off in order and the duration of the break. Once finished it will return the .txt file.
 
-![System diagram](docs/System Diagram.drawio.png)
+![System diagram](docs/System_Diagram.png)
 
 ## Tech Stack
 
