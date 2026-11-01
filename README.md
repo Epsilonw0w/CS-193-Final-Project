@@ -1,4 +1,4 @@
-# Project Name
+# Days-Off Calendar
 
 Grabs dates from the Purdue academic calendar to list when long weekends and holidays take place.
 
