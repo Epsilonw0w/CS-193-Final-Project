@@ -4,7 +4,7 @@ Grabs dates from the Purdue academic calendar to list when long weekends and hol
 
 ## The Problem
 
-My mother mentioned she has a hard time figuring out when I and my siblings' holiday schedules align, so I want to build an mvp to provide her with a clean list of all the potential dates I can come home to visit
+My mother mentioned she has a hard time figuring out when I and my siblings' holiday schedules align, so I want to build an mvp to provide her with a clean list of all the potential dates I can come home to visit.
 
 ## How It Works
 
