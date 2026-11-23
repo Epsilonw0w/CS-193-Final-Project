@@ -15,7 +15,7 @@ Run a command to execute the program, which leads the scraper to grab data from 
 ## Tech Stack
 
 - **Language:** Java
-- **Libraries:** Jackson, JSoup, HttpClient
+- **Libraries:** Jackson, HttpClient
 - **External tools:** Purdue yearly calendar API
 
 ## Setup
