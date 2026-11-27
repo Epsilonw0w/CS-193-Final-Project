@@ -16,8 +16,8 @@ public class Main {
             
             //Prompt user to write to file
             if (IO.readln("\nWrite to file? (y/n): ").equalsIgnoreCase("y")) {
-                Files.write(Path.of("calendar.txt"), lines, StandardCharsets.UTF_8);
-                System.out.println("\nwrote " + lines.size() + " entries to calendar.txt");
+                Files.write(Path.of("Holiday.txt"), lines, StandardCharsets.UTF_8);
+                System.out.println("\nwrote " + lines.size() + " entries to Holiday.txt");
             } else {
                 System.out.println("\nNo file written.");
             }
