@@ -17,14 +17,17 @@ Run a command to execute the program, which leads the scraper to grab data from 
 - **Language:** Java
 - **Libraries:** HttpClient, JSoup
 - **External tools:** Purdue yearly calendar HTML
+- **Data Storage:** calendar.txt (optional)
 
 ## Setup
 
-WORK IN PROGRESS
+1. `clone` the repository to your desired directory and `cd` into it.
+2. Use `./gradlew run` to run the program.
+> Note: Best to use a terminal that runs bash code, as the differences between Linux and Windows terminals may change the initiation steps.
 
 ## Usage
 
-WORK IN PROGRESS
+`./gradlew run` runs the program. After that, a list of dates will be printed to the terminal, filtered from the original list on the Purdue Calendar site. You will then be given the option to write this data to a .txt file called "Holiday.txt".
 
 ## Roadmap
 
