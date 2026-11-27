@@ -15,7 +15,7 @@ public class Main {
             ArrayList<String> lines = pull.parseCalendarData();
             
             //Prompt user to write to file
-            if (IO.readln("\nWrite to file? (y/n): ").equalsIgnoreCase("y")) {
+            if (IO.readln("\n\nWrite to file? (y/n): ").equalsIgnoreCase("y")) {
                 Files.write(Path.of("Holiday.txt"), lines, StandardCharsets.UTF_8);
                 System.out.println("\nwrote " + lines.size() + " entries to Holiday.txt");
             } else {
