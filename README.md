@@ -31,7 +31,7 @@ Run a command to execute the program, which leads the scraper to grab data from 
 
 ## Roadmap
 
-- [ ] Write to organized text file
+- [x] Write to organized text file
 - [ ] Multi-calendar reading
 
 ## Author
